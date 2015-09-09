@@ -1,0 +1,5 @@
+Explain what we did yesterday (with github) and why.
+
+Yesterday i made a repository and innitialized a directory in my computer to github so we can directly upload our journals from our pc to the internet
+ for everyone to see.
+
