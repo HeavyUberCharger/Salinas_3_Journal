@@ -1,0 +1,4 @@
+The steps to upload a file to github are:
+git add *
+git commit NAMEOFFILE
+git push -m "NAME STUFF"
