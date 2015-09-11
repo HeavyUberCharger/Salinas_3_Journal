@@ -1,0 +1,8 @@
+ What is pseudocode - What is it good for?
+
+pseudocode is code simplified for people to read it.its good for understanding
+ what is going on in the program and how to fix any issues.
+
+Why will we use it?
+we will use it when trying to problem solve during our code writting.
+
