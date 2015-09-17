@@ -1,0 +1,7 @@
+What are five different Java data types? What are they used for?
+
+int- make a interger(number)
+float- makes a number with decimals
+boolean- make true or false statements 
+short-save memmory in large arrays
+byte-save memory in large arrays where the memory saving actually matters
