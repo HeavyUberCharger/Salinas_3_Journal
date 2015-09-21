@@ -1,0 +1,9 @@
+Have you received credit for all journals?
+Yes, i have recieved credit for all of my journals.
+
+Why is it important that you use the naming convention specified when naming files?
+not only helps Mr.Davis find out if you did your journal that day or not, but also lets you go back 
+to a journal from a previous day if you need it. 
+
+What is the command to copy in Linux? to copy all of a directory to the current directory?
+the commmand to copy in linux is cp, and to copy everything of a  directoy would be cp *name of directory* *new directory*
