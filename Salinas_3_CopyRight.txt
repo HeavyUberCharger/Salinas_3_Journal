@@ -24,16 +24,37 @@ infringement- break a contract or agreement
 
 propietary- being the owner 
 
-Open Source-
+Open Source-software that its source code is free to edit and sell
 
-GNUgpl license-
+GNUgpl license- a free software license that allows people to run,study,
+copy, and change software
 
-MIT license-
+MIT license-free software license that allows reusing software 
 
-apache license-
+apache license-free software license that allows you do alter it as
+long as you notify and give credit
 
-EULA-
+EULA-agreement between licensor and person who bouth the software 
+usually that contract when installing software you never read.
 
-creative commons-
+creative commons-free licenses people can obtain to show their rights to their
+work.
 
+
+(Where) have you seen this license before?
+i have seen it in software like image magick and gimp
+  
+What is it saying? 
+you can redistribute and modify the software under this license
+
+What implications does this license have for the 
+author? For the user?
+let s them have credit for their work and allows users to be able to
+freely change it however they please
+
+When would you use this license?
+making something you want others to be part in, them taking your work
+and making it better.
+When would you not use this license?
+private software, things you dont want people to change.
 
