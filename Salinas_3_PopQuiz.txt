@@ -1,0 +1,9 @@
+What is the difference between mit and gpl licenses?
+gpl is more restrictive than the mit license
+
+which license will we use in here and why?
+the mit because it is more open and allows us to do much more than gpl
+
+
+extra credit:
+linux
