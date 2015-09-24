@@ -6,4 +6,4 @@ the mit because it is more open and allows us to do much more than gpl
 
 
 extra credit:
-linux
+gnu
