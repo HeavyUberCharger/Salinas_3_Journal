@@ -1,6 +1,6 @@
 Paid licencse- you have a licence purchsed for your work
 
-Shareware-software that is free but then may make you pay to keep using it
+Shareware-software that is free but then may ask you for money
 
 Trialware-software that is free for a limited time
 
@@ -13,8 +13,7 @@ Freemium- a straegy to provide something free of charge but money gives
 you more access.
 
 FreeWare (vs Free-OpenSource)- freeware is just free software while
-free-opensource is both free and the source code is acessible
-
+free-opensource is freedom of speech and the source code is acessible
 
 Richard Stallman-activist about software freedom  who tries to make
 software be free to do anything they want with it
