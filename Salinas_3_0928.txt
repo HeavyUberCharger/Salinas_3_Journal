@@ -1,0 +1,11 @@
+How can you count in java?
+you can count in java by using a for loop to and then print out all
+the numbers
+
+How can you check if a number is divisible?
+You can check a number is divisible by using a if statement and giving
+it the number you want to check its divisible by 
+
+How can you track if a number has a division?
+You can track if a number has a division by combining for and if
+statements to then print out the numbers you want to check 
