@@ -1,0 +1,13 @@
+What is a method?
+
+A method is a procedure for doing something when it is given a number.
+
+What are they good for?
+
+Thye are good for finding anything, from finding even numbers to finding the
+radius of a circle.
+
+how can we use methods to find primes?
+we can make a method to follow certain procedures to find out whether
+the number is prime or not,so we dont have to do it manually every time.
+
