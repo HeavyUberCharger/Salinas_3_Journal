@@ -1,0 +1,4 @@
+What are CODE COMMENTS? What are they good for?
+
+code comments are things that the computer does not look at or use
+in any way but more for personal use to give you or others information.
