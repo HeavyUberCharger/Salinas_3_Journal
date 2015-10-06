@@ -1,0 +1,13 @@
+What are methods?
+a method is a procedure that the computer does to accomplish/make
+something. a mini program
+
+What are Classes?
+classes are a container that holds objects or instances inside.
+
+What is a instance?
+an object used to store some type of data. 
+
+What are class methods?
+its a procedure that holds a type of data inside
+
