@@ -1,0 +1,9 @@
+What is a java class?
+a java class is a blueprint where objects and created
+
+What might a java class be for javafx?
+it might be where items/objects are made and put into the screen.eg a button
+
+What might be a method for class?
+a method could be like our divisible by checks we made for challenge 0.
+
