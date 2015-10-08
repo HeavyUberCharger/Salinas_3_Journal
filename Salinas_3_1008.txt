@@ -1,0 +1,18 @@
+What are your tentative thoughts / plans for your art project?
+create a drawing game that can go from drawing shapes to drawing lines
+
+What might be methods you will use?
+method to check if they want to draw lines or shpes, color of shape
+
+How might you incorporate a for loop?
+i could incorporate a for loop maybe when i add a rainbow color option
+to go trough all the colors
+
+How might you incorporate, if, else if, else?
+when a button is clicked, it check whether im drawing shapes or
+lines, and also a if statements checking the colors
+
+
+What math might you use? 
+i might use math  to find the x and y value and then draw a shape in
+that area clicked 
