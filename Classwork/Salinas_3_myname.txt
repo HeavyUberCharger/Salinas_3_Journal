@@ -1,0 +1,15 @@
+Begin: Andres
+
+  for ( lines1 = 0;if lines1 is less than 20; add a line1){ 
+   start new line line1
+   move right 1
+   move  up 1
+}
+   start new line @ end of line1
+   move right 1
+   move down 1
+stop after 20 moves
+   start new line @ middle of line2
+   move left 1
+   repeat  5 times
+   
