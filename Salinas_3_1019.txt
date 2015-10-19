@@ -1,0 +1,25 @@
+Are you? Why or why not?
+I am not done with my methods, but am very close to completing them as I am
+having trouble witn the roof method.
+
+describe what you did the days we went over art methods. What did you
+write? type? What were your thoughts?
+That day I typed everything that you typed, I was very exited to start
+drawing my own methods.
+
+Did you notice that art method code was shared in the journals
+(as proclaimed with very large text)? Why or why not? 
+Yes i did notice, mostly because its kinda obious.
+
+Have you examined the sample code on github? Why or why not?
+Yes I have,mostly to have a idea of what to do.
+
+Write a sample method for making a sequence of red squares on the canvas.
+private void drawHouseRoof(GraphicsContext gc1,int x,int y, int w,int h){
+        gc1.setFill(Color.BLACK);
+        //gc.fillPolygon(xPoints, yPoints, d);
+        gc1.fillRoundRect(x,y,w,h,10,10);
+        
+       
+    }
+
