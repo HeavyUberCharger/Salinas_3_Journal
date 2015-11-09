@@ -1,0 +1,10 @@
+Are you Ready to begin coding your game?
+Why or why not?
+Yes, I am at this point ready to code my game since I already have the story
+set it and just needed to be plugged in.
+
+
+What will be your biggest challenge?
+why?
+I think my biggest challenge will be keeping track of how much hp the player'
+has and what class they chose in the game since its 2 public numbers.
