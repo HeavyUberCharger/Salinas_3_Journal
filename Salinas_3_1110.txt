@@ -1,0 +1,3 @@
+In your game,how can you track what challenges the player has solver?
+How can you track HP? Items? 
+You can track all of these things using a static global int,string, or boolean.
