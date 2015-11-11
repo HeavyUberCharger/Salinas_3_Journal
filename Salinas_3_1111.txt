@@ -1,0 +1,11 @@
+In your game, what challenges must your player solve?
+In my game, The challenge the player must solve it to get the dungeon treasure
+and try not to die along the way.
+
+How will you specifically track whether they have been solved?
+I will track when the challenges have been solved by doing a while loop
+and checking with if statements whether yoe player is above 0 health or not
+
+Provide variable names and types. Classes if applicable. 
+I have variable names like int HP,boolean  stillRunning, int potions, and
+string name. 
