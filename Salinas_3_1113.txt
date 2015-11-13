@@ -1,0 +1,7 @@
+How will you use while loops in your game? Why?
+I will use while loops in my game to check whether the player is alive or not
+and to also refer to previous code so the player can attack more than once.
+
+How will you use methods in your game? Why?
+I will use methods in my game for such as the isrunning method to run the
+program as long as a statement is true.
