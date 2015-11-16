@@ -1,0 +1,5 @@
+How will you use methods in your game? Why?
+I will use methods in my game for each different class the player can chose
+from,And check if the player is alive or not. I will pass things like
+the player's name, current hp, amount of potions, class chosen, and isAlive
+to each of the different methods in my game.
