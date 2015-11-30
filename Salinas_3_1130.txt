@@ -1,0 +1,5 @@
+How successful were you with your game?
+In what way? Be specific.
+I was very sucessful with my game. I was able to get different methods and
+gameplay mechanics such as hp, potions, and player choices working all in the
+end contributing to the outcome. I was also able to repeat certain lines without having to retype them in to simplify and shorten my code.
