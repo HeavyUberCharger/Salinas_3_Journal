@@ -1,0 +1,6 @@
+What challenges have you encountered with your slick game?
+I have encountered problems such as translating the new levels and creating
+a bonus item that is in the score board.
+
+What slick game will you create?
+Same as the one I already have, just adding on to it
