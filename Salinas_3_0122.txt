@@ -1,0 +1,20 @@
+What slick game did you create?
+My slick game is unwaveringV2, a enhanced version of unwavering
+with more items,levels, and bonus quest.
+
+What challenges did you solve
+Challenges I have solved while making my game are adding bonus items, creating
+new maps,tranfering from one level to the other, and other small things to
+enhance the structure of the code.  
+
+Before the Winter break, you were admonished to finish your maps
+and spritesheets - so that you would be ready to go with the game
+when we got back. Did you? Why or why not?
+Yes I did,mostly because I already had my level and spritesheets since
+last year but did have to spend some days adding the extra 2 levels after
+the break.
+
+Were you able to meet the timeline? Why or why not? [Focus on what you
+did or did not do. Journals ascribing blame to others will not be considered.
+Yes, I was able to sucessfully make everything I wanted thanks to my previous
+pictures and spritesheets from last year.
