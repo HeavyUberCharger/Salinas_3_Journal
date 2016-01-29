@@ -1,0 +1,10 @@
+What is a class constructor?
+A class constructor is what is called when creating an object
+
+What should be included in a class constructor for orbs? Why?
+Things that should be included in a class constructor for orbs should be
+damage,speed,hitboxed, and the image because thats the basic things in order
+to make it work.
+
+What methods should the orb have? why?
+The orb should have methods such as location and hitbox.
