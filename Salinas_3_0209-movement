@@ -1,0 +1,3 @@
+How can / will you make the orb move in the direction you are facing?
+depending on the last arrow key input made, you will shoot by either
+adding/subtracting x/y cordinates from the position of the ball.
