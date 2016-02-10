@@ -1,0 +1,12 @@
+1:How can I setup my orb to allow it to not constantly update direction 
+based on the player?
+2: What can I do to fix the issues of my map parsing when trying to test
+my game in other people's netbeams?
+3:How is the orb timeexist work and how can we change the times of it?
+4:How can i use the current player blocked and recycle it so it works with
+the orb?
+5: What are the next steps in order to compile my game and have it fully
+operational?
+
+That is all i have, sorry :c
+
