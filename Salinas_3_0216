@@ -1,0 +1,6 @@
+How was an array used in your Slick game?
+I used an array when creating more than one object that has the same
+properties such as my health and speed potions.
+
+What might be another use for an array in a different program?
+have a string of numbers each representing a certain output in a game.
