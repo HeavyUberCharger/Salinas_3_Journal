@@ -6,3 +6,11 @@ What specific questions do you have about the Slick game?
 How can we pull certain attributes from player(e.g. hitbox) and use it
 inside the Orb class without it being public? 
  
+What will you have to do to get this working?
+I will have to reflect back to my previous code in order to add or fix
+any things left to do.
+
+Are you prepared? Do you have all knowledge you need? if not be specific.
+I think I am ready to take this test. Sometimes I can forget things and 
+have difficulty putting it all together but I still feel confident enough
+to pass.
