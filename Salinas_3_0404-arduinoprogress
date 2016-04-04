@@ -1,0 +1,17 @@
+Describe the progress you have made on your project.
+we have a led that displays tempeture
+
+What have you done?
+we have almost completed the entire code portion and most of the wiring.
+
+What do you need to do?
+get sound
+
+What will you be able to turn in on Friday?
+pretty much our full interactive program
+
+What code changes are you writing?
+tempeture sensor to calculate in fahrenheit
+
+What functions have you created?
+we created a getVoltage function and a loop function
