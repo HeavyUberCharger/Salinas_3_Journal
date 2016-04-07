@@ -1,0 +1,18 @@
+While working on the Arduino project, I have learned many different things
+about the technology from how it works to the programming language it has.The
+biggest thing I think I have taken from this arduino project so far is how to
+interact with differnt sensors or electronics to have some kind of input in a
+program. The first Thing and most useful sensor I have used is the tempeture
+sensor, which takes the amount of power going trough the sensor and can
+convert it to tempeture. Once the current has gona through the sensor, it
+measures the return energy, then we use a math formula inside our code to
+convert that amount to the tempeture.This is probably the easiest and best
+demostration of how code and real life objects can interact to make something
+unique.Another peice of technology that we are currently using is the LED
+screen. This screen takes input from the arduino and displays it in the small
+screen. It can represent anything from text to equations and in our project
+the tempeture from the sensor. We were able to sucessfully hook up 2 different
+objects to create a interactive project that we are both happy with.I have
+learned how to program all these things thanks to the arduino project we are creating.
+  
+
