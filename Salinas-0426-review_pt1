@@ -1,0 +1,41 @@
+
+    Write a Java method to return the cubed value of some number.
+
+ public int cubednumber(int number){
+ return number * number * number;
+
+}
+
+    Write an Arduino function to return the cubed value of some number.
+int cubednumber(number)
+{
+return number * number * number*
+}
+
+
+    Create the class, an object, and class constructor for class student
+    Describe - if we were to continue with Arduino - what would you create?
+
+public Student{
+
+boolean pencilBroken = false;
+int pencilsLeft = 5;
+
+void breakPencil(boolean new){
+pencilBroken = new;
+}
+
+void getPencil(int new)
+{
+pencilsLeft = new;
+
+}
+
+}
+
+
+If we continued with arduino I would create some type of game with the led screens and the
+remotes you can hook up to anything.
+
+
+
