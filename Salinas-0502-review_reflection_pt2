@@ -1,0 +1,47 @@
+In the Array Game assignment you have had to review and revisit concepts you may
+have forgotten about. These will all be tested on the final exam!
+What is an array?
+An array is a container of objects that holds values of the same type
+
+How does one make a simple array of Strings?
+String[] pizza = new String[20]; 
+
+What is the syntax for a 2-D array?
+int[][] array = new int[number1][number2];
+
+What is the syntax for a 3-D array?
+int[][][] array = new int[number1][number2][number3];
+
+How does one change the value for the third value in a one dimensional array?
+[Give specific code]
+String[] pizza = new String[20];
+pizza[2] = "peperoni";
+
+What is the syntax for a while loop?
+bollean running = true;
+While(running){
+}
+
+Why use while loops in your game?
+to contatly cycle through code without having to copy it
+
+Your game should be in a method outside of main --- How will you call your
+game in main?
+public static void main(String[] args){
+  new doSomething();
+}
+
+public void doSomething(){
+}
+
+Why was it recommended that you use .toLowerCase() with your Scanner input?
+so that it can track both lower and upper case letters for more variety check
+
+You should use different methods when moving the protagonist and to check for
+intersections. How? Why?
+so that the code for the players movement doesnt get broken because of the enemy
+movement; better organization
+
+What values will you pass across methods? how? why?
+any values made public withh pass across methods because they can be seen
+anywhere in the program
