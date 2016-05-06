@@ -1,0 +1,68 @@
+Given mymap[67][43] Which is the x coordinate? Which is the y coordinate?
+67 is the x cordinate and 43 is the y cordinate
+ Why?How does this happen?
+This happens because its like the cordinate system in math, x comes first
+then y
+Consider:
+
+
+        for (int i = 0; i <= map[0].length - 1; i++) {
+            for (int j = 0; j <= map[1].length - 1; j++) {
+                if (j < map[1].length - 1) {
+                  if (i=0){ System.out.print("8888"); #a
+                    } else if (map[i][j] != 'x') {
+                        System.out.print("."); #e
+                    } else {
+                        System.out.print(map[i][j]); #b
+                    }
+                } else {
+                    if (map[i][j] != 'x') {
+                        System.out.println("."); #c
+                    } else {
+                        System.out.println(map[i][j]); #d
+                    }
+                }
+            }
+        }
+    }
+        
+        
+      
+
+Write the code from line #a and explain what it does.
+	line a checks if i equals 0 and if true prints out 8888
+
+Write the code from line #b and explain what it does.
+	line b prints out the map with a pint were i and j were made
+
+Write the code from line #c and explain what it does. Explain how its
+different than #e
+	line c prints out a . ,it is different from e because c prints out the
+	y .s and line e printsb out the .s from the x. 
+
+Write the code from line #d and explain what it does.
+	line d prints out the map with a point with i and j in the y axis
+ 
+Explain how to use a boolean with a while loop. Provide a very specific use
+case and code example.
+	you would set a boolean and use it to set the while to while that
+	boolean is true to run.
+	boolean alive = true;
+	while(alive){
+
+	}		
+
+Explain the use of static.
+	static is used when making a variable or function be accesible anywhere
+	in the class.
+Provide an example of how you could use an object with your game. Give a code
+example.
+	you could use objects to add characteristics such as health or mana to 
+	to a player or enemy.
+	public class Player{
+	int health = 100;
+	int mana = 50;
+	int speed = 3;
+	boolean alive = true;
+	
+	}
