@@ -21,3 +21,9 @@ Cat c2 = (Cat) a;
 Give a specific code example for converting a char to a String
 What is the range of values for byte? Why?
 
+char ch = 'J';
+
+		String string1 = Character.toString(ch);
+
+the range of values for byte is -128 to 127 because an 8-bit integer is
+not a sign bit followed by a 7-bit unsigned integer. 
