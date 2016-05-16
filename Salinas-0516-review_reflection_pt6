@@ -1,0 +1,23 @@
+
+Explain casting. Up-casting, Down-casting.
+taking a object from one type to a different type
+up casting means to make it more making it more broad and downcating means
+making it more presice.
+
+Give a specific code example for up-casting
+Cat c = new Cat();
+    System.out.println(c);
+    Mammal m = c; // upcasting
+    System.out.println(m);
+    
+    /*
+    This printed:
+        Cat@a90653
+      
+
+Give a specific code example for down-casting
+Cat c2 = (Cat) a;
+
+Give a specific code example for converting a char to a String
+What is the range of values for byte? Why?
+
